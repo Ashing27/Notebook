@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVConfig name="Generator">
+  <Parameter name="HeatUnit">
+	<Value name="m_dMaxHeatCapacityValue">1400000</Value>
+    <Value name="m_llShutDownTimeInSec">0</Value>
+    <Value name="m_dPreviousAnodeHuValue">0</Value>
+  </Parameter>
+  <Parameter name="Dosimeter" count="6">
+  	
+  	<Parameter name="1" FilterType ="NoCuFilter">
+			<Value name="dDoseCoefA">1875.6115694056100</Value>
+  		<Value name="dDoseCoefB">-613.4793500756610</Value>
+			<Value name="dDoseCoefC">75.7440742137804</Value>
+			<Value name="dDoseCoefD">-4.1714272295522</Value>
+			<Value name="dDoseCoefE">0.0862212974307</Value>
+			<Value name="fOrigDoseInMrPerMas">1.3375</Value>
+			<Value name="fMeasuredDoseInMrPerMas">1.4125</Value>
+		</Parameter>
+		
+		<Parameter name="2" FilterType ="100umCuFilter">
+			<Value name="dDoseCoefA">8542.0978613948900</Value>
+			<Value name="dDoseCoefB">-2998.1288912520000</Value>
+			<Value name="dDoseCoefC">395.8237822843860</Value>
+  		<Value name="dDoseCoefD">-23.2707163966211</Value>
+  		<Value name="dDoseCoefE">0.5135892169068</Value>
+			<Value name="fOrigDoseInMrPerMas">0.6688</Value>
+			<Value name="fMeasuredDoseInMrPerMas">0.69375</Value>		
+		</Parameter>
+  	
+  	<Parameter name="3" FilterType ="200umCuFilter">
+			<Value name="dDoseCoefA">19125.7942983796000</Value>
+			<Value name="dDoseCoefB">-6712.0649760966400</Value>
+			<Value name="dDoseCoefC">884.7145108728920</Value>
+  		<Value name="dDoseCoefD">-51.8791234094874</Value>
+			<Value name="dDoseCoefE">1.1414289804271</Value>
+			<Value name="fOrigDoseInMrPerMas">0.4281</Value>
+			<Value name="fMeasuredDoseInMrPerMas">0.45125</Value>
+		</Parameter>
+		
+		<Parameter name="4" FilterType ="300umCuFilter">
+			<Value name="dDoseCoefA">17614.4368140599000</Value>
+			<Value name="dDoseCoefB">-6137.3465804449900</Value>
+			<Value name="dDoseCoefC">803.5651563262380</Value>
+  		<Value name="dDoseCoefD">-46.8256128759233</Value>
+			<Value name="dDoseCoefE">1.0241412187705</Value>
+			<Value name="fOrigDoseInMrPerMas">0.3056</Value>
+			<Value name="fMeasuredDoseInMrPerMas">0.31625</Value>		
+		</Parameter>
+  	
+  	<Parameter name="5" FilterType ="600umCuFilter">
+			<Value name="dDoseCoefA">-1032.5399500096500</Value>
+			<Value name="dDoseCoefB">536.4248062602640</Value>
+			<Value name="dDoseCoefC">-90.5368516810135</Value>
+  		<Value name="dDoseCoefD">6.3284969854129</Value>
+			<Value name="dDoseCoefE">-0.1591932281734</Value>
+			<Value name="fOrigDoseInMrPerMas">0.1481</Value>
+			<Value name="fMeasuredDoseInMrPerMas">0.154375</Value>
+		</Parameter>
+		
+		<Parameter name="6" FilterType ="900umCuFilter">
+			<Value name="dDoseCoefA">-2993.6286215346300</Value>
+			<Value name="dDoseCoefB">1301.2106652549400</Value>
+			<Value name="dDoseCoefC">-200.1695256382490</Value>
+  		<Value name="dDoseCoefD">13.2087375011844</Value>
+			<Value name="dDoseCoefE">-0.3192040633284</Value>
+			<Value name="fOrigDoseInMrPerMas">0.0844</Value>
+			<Value name="fMeasuredDoseInMrPerMas">0.0875</Value>		
+		</Parameter>
+						
+  </Parameter>
+</CVConfig>
