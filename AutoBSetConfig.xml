@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>  
+<!-- true:1 , false:0 -->
+	<IsRecordLog name="IsRecordLog">1</IsRecordLog>
+
+	<SfbNnArgs name="SfbNnArgs" count="51">
+		<value name="0" EPT="0">-2.8573,0.56627,0,-0.049824,2.8683,-0.57015,0,0.059417,-1.606,-0.11676,0,0.30041,-0.62346,-0.16027,0,-1.5021,77.8096,75.9204,-7.4587,578.8511,2.8013,-2.8207,-0.15705,-3.7216,583.3697</value>                                     
+		<value name="1" EPT="1">1.2109,0.16925,0,2.1213,-2.4168,0.20551,0,0.37522,1.808,0.1353,0,-0.28636,0.92548,-0.069815,0,-1.287,-6.468,2.4398,6.8829,0.56364,1.4974,1.5887,0.035808,-0.049351,11.4749</value>                                                
+		<value name="2" EPT="2">2.1794,-0.21576,0,-0.41581,-0.85329,0.37963,0,5.3794,-1.3664,-0.29437,0,-9.5144,-1.5074,-0.11654,0,0.33036,-2.3379,-0.22442,2.2744,-7.7937,-1.5386,-0.27161,-1.6606,-0.14867,6.7908</value>                                      
+		<value name="3" EPT="3">0.60774,0.092487,0,0.59658,1.7028,-0.2669,0,-0.23534,-50.16,55.9161,0,-2.8244,1.0103,0.050315,0,-0.12378,-115.1691,-2.9482,0.10157,23.0702,2.4253,-1.2622,211.4064,0.61181,105.2995</value>                                        
+		<value name="4" EPT="4">0.56075,0.044512,0,0.46815,1.613,-0.18403,0,-0.23345,-0.86645,-0.049569,0,0.020782,2.4125,-0.07429,0,6.3137,-15.1821,-3.7085,-23.2347,0.14559,0.69574,-1.2411,-0.3256,-3.1502,6.1832</value>                                     
+		<value name="5" EPT="5">0.38832,0.15566,0,-0.26249,3.1111,-5.4393,0,0.64432,-0.30051,0.031007,0,-19.9987,2.7389,-0.011132,0,-0.45279,8.0744,0.2487,-0.3127,7.5018,0.55399,-22.5124,13.711,0.67568,-1.3616</value>                                         
+		<value name="6" EPT="6">-0.946,0.17362,0,3.29,-1.358,0.16108,0,0.1552,2.2106,0.092188,0,-0.41534,2.6715,0.13342,0,-0.3793,-0.35867,4.5336,6.9683,2.2927,0.46989,1.0772,0.29855,-1.4668,3.0005</value>                                                    
+		<value name="7" EPT="7">-3.135,4.7115,0,0.030596,-2.5177,0.00030684,0,0.31269,0.67167,0.018631,0,1.6606,-0.21665,-0.085253,0,0.066877,-0.25611,-20.1074,-17.4338,-19.9039,19.5678,-1.1236,1.8576,-0.74767,-6.1295</value>                                 
+		<value name="8" EPT="8">0.37653,0.019299,0,0.34702,-0.6677,-0.027652,0,-0.32952,-0.052679,-0.0049442,0,-0.27514,-1.4506,0.17942,0,0.45453,213.4365,95.681,171.8117,3.1086,-0.7503,0.95474,0.55822,1.0335,-18.4148</value>                                  
+		<value name="9" EPT="9">1.1367,-0.15554,0,-0.48094,1.4792,0.007909,0,0.060292,0.6075,0.10219,0,-0.29026,-1.2698,-0.028444,0,-0.75851,-2.7146,24.7201,7.692,47.8772,-0.74873,0.86473,0.21427,-1.6469,29.8250</value>                                       
+		<value name="10" EPT="10">-1.3766,-0.0077673,0,0.038791,-1.1679,0.15858,0,0.40824,-1.1548,-0.032915,0,-1.0333,-0.51941,-0.09888,0,0.22692,-36.1884,2.4382,27.5689,-8.0436,-1.1821,0.80182,-1.6805,-0.20948,-1.8974</value>                                
+		<value name="11" EPT="11">0.35763,0.089948,0,-0.71513,0.9428,-0.052348,0,-0.25784,-0.42771,-0.094424,0,0.65581,-1.2091,0.060082,0,0.29947,-45.4174,-148.5969,-52.8363,-99.3354,0.50318,0.98343,-0.42212,-0.7875,52.1348</value>                           
+		<value name="12" EPT="12">-1.1262,-0.046198,0,-1.3822,1.6399,0.0059697,0,-0.14704,-0.074388,-0.028832,0,0.029271,1.5675,-0.34095,0,-0.56989,36.7032,57.4527,-44.9667,-0.53028,-2.1064,1.513,-0.57489,-1.245,-35.4750</value>                               
+		<value name="13" EPT="13">0.12715,-0.019989,0,0.44508,-2.876,0.072678,0,0.48244,-0.23543,-0.059051,0,0.31263,0.31548,0.004577,0,0.14205,27.581,-2.9228,-31.1024,-31.4632,-0.58259,-0.064022,-0.29819,-0.87184,-11.9607</value>                             
+		<value name="14" EPT="14">3.135,0.035986,0,-1.0844,-1.6797,-0.12965,0,0.58145,-10.4859,-0.3735,0,-4.9829,-2.6949,0.2841,0,0.68998,-2.3975,-8.1676,-0.19432,2.1448,-1.3952,0.53783,9.0574,3.0326,5.0489</value>                                           
+		<value name="15" EPT="15">1.9789,-0.14415,0,-0.057361,0.72324,0.092671,0,-0.095176,-0.86794,0.0018968,0,-1.341,5.7786,0.041366,0,-0.87619,-1.7828,10.5384,32.326,1.1647,-1.9414,-0.030055,-2.0902,-0.41343,34.7439</value>                                
+		<value name="16" EPT="16">0.054418,-0.0037687,0,0.15473,-0.17084,-0.0039361,0,-0.33511,0.54253,-0.22004,0,0.092046,-2.4323,-0.037506,0,0.35516,-159.5158,-67.8078,-30.6514,-30.413,0.1248,0.22687,-2.9673,-1.2717,-18.2916</value>                         
+		<value name="17" EPT="17">0.010784,-0.028151,0,0.012337,23.1241,1.3206,0,33.3324,-1.0566,0.014831,0,0.2121,-2.2222,-0.035884,0,3.5234,-56.6723,0.065157,-21.0352,0.33072,-0.59841,-31.4459,-0.77512,-2.1876,-39.5961</value>                               
+		<value name="18" EPT="18">-0.056859,-0.036256,0,0.022315,0.23331,1.0525,0,-0.55914,1.3443,-0.061017,0,1.4149,1.5274,-0.019832,0,-0.12608,-39.3008,0.40899,-5.5841,47.645,0.60514,2.3919,1.1544,1.3528,-12.8689</value>                                     
+		<value name="19" EPT="19">0.021053,-0.011929,0,0.10802,-1.7303,0.00079006,0,0.21297,0.13121,-0.0099687,0,0.34917,-0.26343,-1.0249,0,0.39027,-109.9687,-77.1503,32.4539,-0.52436,-0.086241,-1.6562,-0.34873,-2.4587,-68.1123</value>                        
+		<value name="20" EPT="20">-0.026594,0.026107,0,0.061746,0.072143,0.59388,0,-0.079808,0.66531,0.028511,0,-0.66549,-1.7766,-0.0013377,0,0.364,39.724,7.8669,3.9925,-19.8055,-0.46616,2.9049,-0.36926,-0.95891,-1.1125</value>                               
+		<value name="21" EPT="21">1.6818,-0.026226,0,-0.65001,-0.036868,0.15845,0,-0.031821,-1.6949,0.026873,0,0.589,0.00048263,0.12113,0,-0.03055,-73.375,-53.0977,-86.5974,87.4627,0.92746,0.45703,-0.8914,0.5376,-25.7422</value>                               
+		<value name="22" EPT="22">-0.88139,0.2563,0,0.1749,0.11745,0.033819,0,12.87,0.83682,-0.30104,0,-0.14134,-0.43636,-0.021392,0,0.07196,24.9867,-0.14119,19.3294,-64.5665,0.73337,-1.5495,-0.69201,-0.84658,-45.6046</value>                                  
+		<value name="23" EPT="23">-1.8978,-0.18554,0,0.1391,-0.29611,0.077784,0,-0.025993,0.35843,-0.054114,0,1.0108,3.6081,0.087278,0,-0.43585,-3.0568,96.1124,-60.6191,7.8751,1.091,2.2823,2.5676,0.32106,-33.4484</value>                                       
+		<value name="24" EPT="24">0.31681,-0.061472,0,0.030922,-0.74976,0.065504,0,-0.96156,-1.5274,-0.14233,0,0.090054,3.162,0.056974,0,-0.38006,-60.4787,34.6405,-4.0975,11.8183,-1.9483,-2.2411,0.87994,0.6278,-27.1264</value>                                 
+		<value name="25" EPT="25">0.29672,-0.022744,0,0.40599,0.44221,-0.3659,0,0.54713,-0.13289,0.043267,0,-0.29983,-1.9952,-0.008392,0,0.22498,23.8207,-1.0749,34.1945,-52.8835,-0.38937,-1.7745,0.1189,-1.4164,-42.5113</value>                                 
+		<value name="26" EPT="26">0.71072,-0.14915,0,0.5442,0.15247,-0.019214,0,0.18868,-1.769,-0.0088911,0,0.21816,-0.32043,0.00012173,0,-0.27706,-2.1819,-49.592,-32.4397,-29.6028,-1.361,0.22025,-1.1485,0.29564,-8.3347</value>                               
+		<value name="27" EPT="27">0.62191,0.080238,0,-0.050737,-2.6952,-0.020288,0,0.31123,1.519,-0.061931,0,0.008874,1.0823,-0.011961,0,0.85291,11.324,-118.8342,-2.6812,-168.3509,-0.34692,-1.9888,-1.5858,2.8193,54.2144</value>                               
+		<value name="28" EPT="28">-1.1797,0.0024769,0,0.12199,-1.6697,0.058582,0,0.12912,0.66946,0.0092487,0,-0.070174,-1.3702,0.0063841,0,-1.0338,39.8855,7.7278,95.8748,24.3886,0.33633,1.9126,0.053724,-1.8923,-1.5719</value>                                 
+		<value name="29" EPT="29">-3.1772,-0.0081578,0,-0.63664,0.09154,0.059368,0,-0.029985,-0.17195,-0.22858,0,0.088358,1.7281,0.0012604,0,-0.13688,4.809,17.0666,-10.1099,28.3395,-0.55294,-0.46003,-1.9086,0.9194,-19.3377</value>                             
+		<value name="30" EPT="30">1.9627,-0.029788,0,-0.21926,-0.74018,0.018664,0,0.81599,0.33952,0.052549,0,0.013249,4.1906,0.019788,0,-0.79843,-2.368,-1.742,19.0597,1.8434,-1.8041,0.20311,-0.19389,-0.19021,2.4342</value>                                   
+		<value name="31" EPT="31">-2.8616,0.041166,0,0.24817,0.34361,0.062192,0,-0.050721,3.2298,0.0075127,0,-0.45968,1.6082,6.7346,0,4.5049,0.89098,15.886,3.7595,0.008716,2.5543,-0.25214,0.1198,1.2081,2.4465</value>                               
+        <value name="32" EPT="32">1.0201,-0.011886,0,62.7274,-0.18066,-0.00058179,0,0.02355,-273.101,35.7574,0,98.9188,0.37607,-0.0010964,0,-0.04825,0.081116,-929.3189,-101.7302,-435.7748,-42.6159,0.082401,-180.4243,-0.3011,-152.8183</value>      
+        <value name="33" EPT="33">31.7864,-10.0848,0,0.025699,0.72867,-0.024211,0,-0.44563,-1.6028,0.00086191,0,0.2617,0.037755,-0.025488,0,-0.037971,-0.0059715,4.4456,-36.3653,-45.1524,23.4518,-0.46888,-1.1397,-0.15983,-35.6959</value>           
+        <value name="34" EPT="34">28.0103,-324.0485,0,69.2137,-0.38923,0.0015741,0,0.046446,0.14341,0.00053404,0,-0.017301,-119.832,-151.6728,0,-8.9694,-0.012761,329.6854,929.5968,-160.2737,-87.2801,0.31334,-0.0067506,-207.1041,-254.6684</value>  
+        <value name="35" EPT="35">0.67718,-0.0083523,0,-0.08439,308.8808,-240.7949,0,119.0703,0.3555,0.0033532,0,-0.045378,38.1145,85.1581,0,18.9256,-66.6805,0.010034,143.4411,43.345,-0.48647,334.4918,-0.062897,55.1151,-64.8687</value>            
+        <value name="36" EPT="36">-0.1143,-0.00062953,0,0.014003,0.43008,-0.0016966,0,-0.052136,-59.6111,-158.0395,0,22.5404,-175.0754,-168.4049,0,80.643,-956.8986,-244.0572,-108.3103,195.9924,-0.00064775,-0.36384,-108.08,-302.9984,0.83967</value>
+        <value name="37" EPT="37">-9.8689,3.5405,0,-3.862,0.30512,0.12595,0,-0.012171,1.9238,-0.006217,0,-0.25471,1.8773,-2.0204,0,1.2484,-0.008226,8.1916,16.1162,-0.0067883,-0.079018,-0.43141,0.76645,5.8735,-8.8142</value>                        
+        <value name="38" EPT="38">-0.40719,0.0023322,0,0.048165,169.5604,-141.8394,0,130.0027,-0.12284,-0.000347,0,0.01466,61.3664,-7.4643,0,-13.1655,286.8946,0.0029052,-1045.8868,-119.2953,0.29011,165.4224,-0.15858,48.7198,-127.8265</value>      
+        <value name="39" EPT="39">4.5468,2.0641,0,-3.5345,-1.0816,0.0099465,0,0.11668,-0.33244,-0.014583,0,0.038735,9.9673,0.59038,0,-1.4846,34.0009,15.0477,-59.8172,0.29927,11.3141,0.9674,0.19012,-4.2091,-34.9964</value>                          
+        <value name="40" EPT="40">-4.7697,-0.023197,0,0.58399,0.085794,-0.030079,0,-0.0055937,-1.0971,-0.0041597,0,0.12393,-19.1801,-1.8905,0,3.2778,-0.30339,-33.191,-21.9109,-0.089547,4.4122,-0.1268,-0.48516,11.295,-15.8896</value>               
+        <value name="41" EPT="41">-0.16468,-0.089706,0,0.028486,0.79295,-3.1729,0,1.2638,-3.3408,-0.28637,0,2.8989,-1.6641,0.0015148,0,0.20246,-11.3097,3.2737,7.9704,-20.9975,0.31347,-4.0349,-3.123,-0.81435,-2.121</value>                          
+        <value name="42" EPT="42">3.6007,-2.5393,0,-0.69662,2.0652,-0.00065209,0,-0.22756,-0.23731,-0.10954,0,0.040765,-1.2312,-3.5053,0,-4.1116,-10.0308,6.4092,-9.2626,3.8845,-8.2116,0.075248,0.41056,-0.80842,-5.278</value>                       
+        <value name="43" EPT="43">-3.4095,0.014955,0,0.35974,9.6216,0.13871,0,-0.92464,0.20066,0.068282,0,-0.030842,-21.0501,4.8766,0,-3.0725,-1.3648,0.6103,14.8579,0.07957,1.187,-2.9332,-0.36036,-13.4228,5.8563</value>                            
+        <value name="44" EPT="44">3.8339,-1.3673,0,-2.247,0.6696,0.17931,0,-0.081344,5.1919,-0.22644,0,0.48413,3.4614,0.019909,0,-0.43284,-0.16246,5.5623,-0.080447,2.116,-2.893,-1.0043,-4.1472,-0.85394,4.9045</value>                               
+        <value name="45" EPT="45">0.40048,-2.0442,0,3.1318,-1.4886,-0.15785,0,0.17179,6.8654,0.57507,0,-0.85232,-2.3628,0.010416,0,0.23181,4.9176,-6.268,0.8694,2.4078,-4.6584,1.6785,-4.1703,2.0758,10.9707</value>                                   
+        <value name="46" EPT="46">-2.3179,0.84722,0,-0.70214,-0.84782,0.12132,0,0.068283,-0.58263,-0.0089082,0,0.060057,-6.4103,-15.5427,0,-2.3115,4.3561,7.1474,-44.0694,15.2666,4.7062,0.27612,-0.56222,-5.6944,-16.1759</value>                     
+        <value name="47" EPT="47">-0.48689,-2.7082,0,1.5083,0.26553,0.077199,0,-0.035862,4.725,-0.035762,0,-0.49574,-11.5178,-1.5658,0,1.2999,0.7596,13.1887,0.83352,-0.442,-2.8216,-0.57367,-1.9405,9.8185,8.2346</value>                             
+        <value name="48" EPT="48">0.48353,-0.054161,0,-0.039216,-0.65779,-0.0020415,0,0.065677,5.4534,0.93959,0,1.8195,-10.6852,-0.33235,0,1.2291,-18.0972,-38.1184,-4.3466,11.7985,-0.1172,-0.34887,-0.47477,1.0418,-1.9988</value>                   
+        <value name="49" EPT="49">-0.087566,-0.036837,0,0.014128,-1.8972,-0.00077268,0,0.18773,14.4753,-1.6109,0,-1.4156,-2.0553,-3.2839,0,0.5471,-27.9299,-15.2439,-1.111,13.3598,0.31616,-0.57821,3.9119,18.6026,-16.6103</value>                    
+        <value name="50" EPT="50">0.83539,7.3709,0,-1.1875,0.38075,-0.0083323,0,-0.10632,-3.6891,-0.51052,0,0.27949,9.3166,2.2013,0,-0.98672,-38.3767,24.685,-1.5034,0.43651,-25.3616,-1.7169,3.8711,-12.1375,66.4229</value>                          
+	</SfbNnArgs>
+
+	<!--
+	<EptNnArgs name="EptNnArgs" count="1">
+		<value name="0">0.74909,0.043681,-0.044138,-0.092652,-0.97069,-0.057164,0.05438,0.13624,1.6782,-0.044635,-0.0056083,0.021187,-3.4974,-0.052793,0.11415,-1.5135,1190.3246,660.7032,-36.0562,4.1751,-1.1147,1.0972,-1.4488,-0.018972,434.9566</value>
+	</EptNnArgs>
+	-->
+	
+
+	<!-- The config of MaLimit -->
+	<!-- FocusBig=0 - 1, FocusSmall=1 - 0.6, FocusMicro=2 - 0.3, FocusAny=3 -->
+	<!-- DoseHigh=0, DoseNormal=1, DoseLow=2,    DoseAny=3 -->
+	<!-- ImagingModeInvalid=0, ImagingModeFluoro=1, ImagingModeRoadmap1=2, ImagingModeRoadmap2=3, ImagingModeDsa=4,
+	ImagingModeCardiac=5, ImagingModeDr=6, ImagingMode3dDsa=7, ImagingModeStepping=8, ImagingModeSingleShot=9 -->
+	<MaLimit name="MaLimit" count="17">
+		<value name="0"  opMode="ImagingModeFluoro" focus="1" doseLevel="3" minFps="30" maxFps="30" minMa="1"> 0, 0, 0, 0, 250, 250, 250, 250, 238,	223, 211, 200, 190,	180, 172, 165, 158, 0 </value>
+		<value name="1"  opMode="ImagingModeFluoro" focus="1" doseLevel="3" minFps="3.75" maxFps="15" minMa="1"> 0, 0, 0, 0, 250, 250, 250, 250, 238, 223, 211, 200, 190,	180, 172, 165, 158, 0 </value>
+		<value name="2"  opMode="ImagingModeCardiac" focus="1" doseLevel="3" minFps="0" maxFps="0" minMa="1"> 0, 0, 0, 0, 459, 461, 463, 466, 451, 425, 399, 379, 360, 345, 331, 316, 302, 0 </value>
+		<value name="3"  opMode="ImagingModeCardiac" focus="0" doseLevel="2" minFps="0" maxFps="0" minMa="100"> 0, 0, 0, 0, 575, 635, 643, 600, 563, 529, 500, 474, 450, 429, 409, 391, 375, 0 </value>
+		<value name="4"  opMode="ImagingModeCardiac" focus="0" doseLevel="1" minFps="0" maxFps="0" minMa="100"> 0, 0, 0, 0, 600, 635, 670, 705, 720, 720, 720, 720, 720, 691, 662, 633, 604, 0 </value>
+		<value name="5"  opMode="ImagingMode3dDsaMask" focus="1" doseLevel="3" minFps="0" maxFps="0" minMa="1"> 0, 0, 0, 0, 250, 288, 325, 363, 400, 400, 400, 400, 400, 400, 400, 400, 400, 0 </value>
+		<value name="6"  opMode="ImagingMode3dDsaMask" focus="0" doseLevel="3" minFps="0" maxFps="0" minMa="100"> 0, 0, 0, 0, 575, 681, 786, 733, 688, 647, 611, 579, 550, 524, 500, 478, 458, 0 </value>
+		<value name="7"  opMode="ImagingModeSteppingMask" focus="1" doseLevel="1" minFps="0" maxFps="0" minMa="10"> 0, 0, 123, 149, 175, 201, 228, 254, 280, 280, 280, 280, 280, 280, 280, 280, 280, 267 </value>
+		<value name="8"  opMode="ImagingModeSteppingMask" focus="2" doseLevel="1" minFps="0" maxFps="0" minMa="100"> 0, 0, 363, 469, 575, 681, 788, 867, 813, 765, 722, 684, 650, 619, 591, 565, 542, 520 </value>
+		<value name="9"  opMode="ImagingModeSteppingMask" focus="1" doseLevel="2" minFps="0" maxFps="0" minMa="10"> 0, 0, 123, 149, 175, 201, 228, 254, 280, 280, 280, 280, 280, 280, 280, 280, 280, 267 </value>
+		<value name="10" opMode="ImagingModeSteppingMask" focus="2" doseLevel="2" minFps="0" maxFps="0" minMa="100"> 0, 0, 181, 234, 288, 341, 394, 447, 500, 500, 500, 500, 500, 475, 455, 434, 416, 400 </value>
+		<value name="11" opMode="ImagingModeDsa" focus="2" doseLevel="1" minFps="0" maxFps="0" minMa="10"> 0, 0, 76, 97, 118, 138, 159, 179, 170, 160, 151, 143, 136, 130, 124, 118, 113, 109 </value>
+		<value name="12" opMode="ImagingModeDsa" focus="1" doseLevel="1" minFps="0" maxFps="0" minMa="10"> 0, 0, 170, 208, 240, 270, 320, 350, 350, 330, 315, 295, 283, 280, 280, 280, 280, 267 </value>
+		<value name="13" opMode="ImagingModeDsa" focus="0" doseLevel="1" minFps="0" maxFps="0" minMa="100"> 0, 0, 290, 375, 460, 545, 630, 715, 1000, 800, 800, 800, 800, 762, 727, 696, 667, 640 </value>
+		<value name="14" opMode="ImagingModeDsa" focus="2" doseLevel="2" minFps="0" maxFps="0" minMa="10"> 0, 0, 76, 97, 118, 138, 159, 179, 170, 160, 151, 143, 136, 130, 124, 118, 113, 109 </value>
+		<value name="15" opMode="ImagingModeDsa" focus="1" doseLevel="2" minFps="0" maxFps="0" minMa="10"> 0, 0, 170, 208, 240, 270, 320, 350, 350, 330, 315, 295, 283, 280, 280, 280, 280, 267 </value>
+		<value name="16" opMode="ImagingModeDsa" focus="0" doseLevel="2" minFps="0" maxFps="0" minMa="100"> 0, 0, 181, 234, 288, 341, 394, 447, 500, 500, 500, 500, 500, 475, 455, 434, 416, 400 </value>
+	</MaLimit>
+
+	<!-- The config of KvLimit -->
+	<kVLimit name="kVLimit" count="5">
+		<value name="0" opMode="ImagingModeFluoro" minKv="60" maxKv="120" />
+		<value name="1" opMode="ImagingModeCardiac" minKv="60" maxKv="120" />
+		<value name="2" opMode="ImagingMode3dDsaMask" minKv="60" maxKv="120" />
+		<value name="3" opMode="ImagingModeSteppingMask" minKv="50" maxKv="125" />
+		<value name="4" opMode="ImagingModeDsa" minKv="50" maxKv="125" />
+	</kVLimit>
+
+	<!-- The config of PwLimit -->
+	<PwLimit name="PwLimit" count="9">
+		<value name="0" opMode="ImagingModeFluoro"    minFps="30"   maxFps="30"   minPw="2"  maxPw="8" />
+		<value name="1" opMode="ImagingModeFluoro"    minFps="3.75" maxFps="15"   minPw="2"  maxPw="36" />
+		<value name="2" opMode="ImagingModeCardiac"   minFps="7.5"  maxFps="30"   minPw="3.2"  maxPw="8" />
+		<value name="3" opMode="ImagingMode3dDsaMask"     minFps="15"   maxFps="60"   minPw="3.2"  maxPw="11" />		
+		<value name="4" opMode="ImagingModeSteppingMask"  minFps="1"    maxFps="2"    minPw="3.2"  maxPw="20" />
+		<value name="5" opMode="ImagingModeDsa"       minFps="30"   maxFps="30"   minPw="3.2"  maxPw="8" />
+		<value name="6" opMode="ImagingModeDsa"       minFps="15"   maxFps="15"   minPw="3.2"  maxPw="36" />
+		<value name="7" opMode="ImagingModeDsa"       minFps="10"   maxFps="10"   minPw="3.2"  maxPw="69" />
+		<value name="8" opMode="ImagingModeDsa"       minFps="0.5"  maxFps="7.5"  minPw="3.2"  maxPw="100" />
+	</PwLimit>
+
+	<!-- The config of FocusSpotLimit -->
+	<FsLimit name="FsLimit" count="5">
+		<value name="0" opMode="ImagingModeFluoro">0.6</value>
+		<value name="1" opMode="ImagingModeCardiac">0.6, 1.0</value>
+		<value name="2" opMode="ImagingMode3dDsaMask">0.6, 1.0</value>
+		<value name="3" opMode="ImagingModeSteppingMask">0.6, 1.0</value>
+		<value name="4" opMode="ImagingModeDsa">0.3, 0.6, 1.0</value>
+	</FsLimit>
+
+	<!-- The config of FilterLimit -->
+	<!-- DoseHigh=0, DoseNormal=1, DoseLow=2, DoseAny=4 -->
+	<SfLimit name="SfLimit" count="7">
+		<value name="0" opMode="ImagingModeFluoro" doseLevel="1">0.1, 0.2, 0.3</value>
+		<value name="1" opMode="ImagingModeFluoro" doseLevel="2">0.6, 0.9</value>
+		<value name="2" opMode="ImagingModeFluoro" doseLevel="0">0, 0.1, 0.2, 0.3</value>
+		<value name="3" opMode="ImagingModeCardiac" doseLevel="4">0, 0.1, 0.2, 0.3</value>
+		<value name="4" opMode="ImagingMode3dDsaMask" doseLevel="4">0, 0.1, 0.2, 0.3</value>
+		<value name="5" opMode="ImagingModeSteppingMask" doseLevel="4">0, 0.1</value>
+		<value name="6" opMode="ImagingModeDsa" doseLevel="4">0, 0.1, 0.2, 0.3</value>
+	</SfLimit>
+
+	<!-- The config of DoseLimit -->
+	<DoseLimit name="DoseLimit" count="3">
+		<value name="0" opMode="ImagingModeFluoro" doseLevel="1">71</value>
+		<value name="1" opMode="ImagingModeFluoro" doseLevel="2">23</value>
+		<value name="2" opMode="ImagingModeFluoro" doseLevel="0">168</value>
+	</DoseLimit>
+
+	
+	<SmartABD name="SmartABD">
+		<value name="CollimatorBladeRejectionMargin">100</value>
+		<value name="MinROI">400</value>
+		<value name="EPTThreshold">3</value>
+		<value name="MinAnatomy">15</value>
+		<value name="DownsamplingFactor">5</value>
+		
+		<!-- temp, this factor will be coded into program -->
+		<value name="MrMasCalNN" count="6">1.2125, 0.625, 0.4138, 0.2975, 0.1469, 0.0844</value>
+	</SmartABD>
+
+	<EPT name="EPT">
+		<value name="BreakFrequency">6</value>
+		<value name="DampingFactor">0.2</value>
+		<value name="DefaultEpt">15</value>
+		<value name="EptNnArgs" count="25">0.74909,0.043681,-0.044138,-0.092652,-0.97069,-0.057164,0.05438,0.13624,1.6782,-0.044635,-0.0056083,0.021187,-3.4974,-0.052793,0.11415,-1.5135,1190.3246,660.7032,-36.0562,4.1751,-1.1147,1.0972,-1.4488,-0.018972,434.9566</value>
+		
+		<!-- temp, this factor will be coded into program -->
+		<value name="NNEptSID">110</value>
+		<value name="ScatterEptAToL" count="12">0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</value>
+	</EPT>
+
+	<TechCorrection name="TechCorrection">
+		<value name="ThermalPowernominal">65</value>
+		<value name="ThermalPowerreduced">56</value>
+		
+		<!-- bool类型  true:0  false:1 -->
+		<value name="TechModifyMode">1</value>
+		<value name="MaxIteration">6</value>
+		<value name="KvCmpPrecision">0.5</value>
+		<value name="DoseCmpPrecision">0.005</value>
+		
+		<!-- temp, these variables will be coded into program -->
+		<parameter name="DoseCalcData">
+			<abcde name="abcde" count="6">
+				<value name="0">1875.6115694056100, 	-613.4793500756610, 	75.7440742137804, 	-4.1714272295522, 	0.0862212974307</value>
+				<value name="1">8542.0978613948900, 	-2998.1288912520000, 	395.8237822843860, 	-23.2707163966211, 	0.5135892169068</value>
+				<value name="2">19125.7942983796000, 	-6712.0649760966400, 	884.7145108728920, 	-51.8791234094874, 	1.1414289804271</value>
+				<value name="3">17614.4368140599000, 	-6137.3465804449900, 	803.5651563262380, 	-46.8256128759233, 	1.0241412187705</value>
+				<value name="4">-1032.5399500096500,	536.4248062602640, 	-90.5368516810135, 	6.3284969854129, 	-0.1591932281734</value>
+				<value name="5">-2993.6286215346300, 	1301.2106652549400, 	-200.1695256382490, 	13.2087375011844, 	-0.3192040633284</value>
+			</abcde>
+			<alpha2eps name="alpha2eps" count="6">
+				<value name="0">0, 0, 0, 0, 1</value>
+				<value name="1">0, 0, 0, 0, 1</value>
+				<value name="2">0, 0, 0, 0, 1</value>
+				<value name="3">0, 0, 0, 0, 1</value>
+				<value name="4">0, 0, 0, 0, 1</value>
+				<value name="5">0, 0, 0, 0, 1</value>
+			</alpha2eps>
+		</parameter>
+		
+		<value name="DoseSidCal">70</value>
+		<value name="MrMasCalDose" count="6">1.3375, 0.6688, 0.4281, 0.3056, 0.1481, 0.0844</value>
+		
+	</TechCorrection>
+
+	<SystemFeedback name="SystemFeedback" isUseConfig="false">
+		<value name="SID">90</value>
+		<value name="CollimatorfeedbackHeight">2900</value>
+		<value name="CollimatorfeedbackWeight">2900</value>
+		<value name="SOD">75</value>
+		<value name="TableHeight">0</value>
+		<value name="TableLatPos">0</value>
+		<value name="Lao">0</value>
+		<value name="Pitch">0.308</value>
+	</SystemFeedback>
+	
+	<!-- temp, these variables will be coded into program -->	
+	<Normalize name="Normalize">
+		<value name="KvMin">40</value>
+		<value name="KvMax">125</value>
+		<value name="CuFilterMin">0</value>
+		<value name="CuFilterMax">0.9</value>
+		<value name="DefaultEpt">15</value>
+	</Normalize>
+
+	<ZeroTrial name="ZeroTrial" >
+	   <MaxDeltaEpt name="MaxDeltaEpt">
+	    <value name="0" EPT="0">	0	,	0	,	0	,	0	</value>
+		<value name="1" EPT="1">	1	,	1	,	1	,	1	</value>
+		<value name="2" EPT="2">	2	,	2	,	2	,	2	</value>
+		<value name="3" EPT="3">	3	,	3	,	3	,	3	</value>
+		<value name="4" EPT="4">	4	,	4	,	4	,	4	</value>
+		<value name="5" EPT="5">	5	,	5	,	5	,	5	</value>
+		<value name="6" EPT="6">	6	,	6	,	6	,	6	</value>
+		<value name="7" EPT="7">	7	,	7	,	7	,	7	</value>
+		<value name="8" EPT="8">	8	,	8	,	8	,	8	</value>
+		<value name="9" EPT="9">	9	,	9	,	9	,	9	</value>
+		<value name="10" EPT="10">	10	,	10	,	10	,	10	</value>
+		<value name="11" EPT="11">	11	,	11	,	11	,	11	</value>
+		<value name="12" EPT="12">	12	,	12	,	12	,	12	</value>
+		<value name="13" EPT="13">	13	,	13	,	13	,	13	</value>
+		<value name="14" EPT="14">	13	,	13	,	13	,	13	</value>
+		<value name="15" EPT="15">	13	,	13	,	13	,	13	</value>
+		<value name="16" EPT="16">	13	,	13	,	13	,	13	</value>
+		<value name="17" EPT="17">	13	,	13	,	13	,	13	</value>
+		<value name="18" EPT="18">	13	,	13	,	13	,	13	</value>
+		<value name="19" EPT="19">	13	,	13	,	13	,	13	</value>
+		<value name="20" EPT="20">	13	,	13	,	13	,	13	</value>
+		<value name="21" EPT="21">	13	,	13	,	13	,	13	</value>
+		<value name="22" EPT="22">	13	,	13	,	13	,	13	</value>
+		<value name="23" EPT="23">	13	,	13	,	13	,	13	</value>
+		<value name="24" EPT="24">	13	,	13	,	13	,	13	</value>
+		<value name="25" EPT="25">	13	,	13	,	13	,	13	</value>
+		<value name="26" EPT="26">	13	,	13	,	13	,	13	</value>
+		<value name="27" EPT="27">	13	,	13	,	13	,	13	</value>
+		<value name="28" EPT="28">	13	,	13	,	13	,	13	</value>
+		<value name="29" EPT="29">	13	,	13	,	13	,	13	</value>
+		<value name="30" EPT="30">	13	,	13	,	13	,	13	</value>
+		<value name="31" EPT="31">	13	,	13	,	13	,	13	</value>
+		<value name="32" EPT="32">	13	,	13	,	13	,	13	</value>
+		<value name="33" EPT="33">	13	,	13	,	13	,	13	</value>
+		<value name="34" EPT="34">	13	,	13	,	13	,	13	</value>
+		<value name="35" EPT="35">	13	,	13	,	13	,	13	</value>
+		<value name="36" EPT="36">	13	,	13	,	13	,	13	</value>
+		<value name="37" EPT="37">	13	,	13	,	13	,	13	</value>
+		<value name="38" EPT="38">	13	,	13	,	13	,	13	</value>
+		<value name="39" EPT="39">	13	,	13	,	13	,	13	</value>
+		<value name="40" EPT="40">	13	,	13	,	13	,	13	</value>
+		<value name="41" EPT="41">	13	,	13	,	13	,	13	</value>
+		<value name="42" EPT="42">	13	,	13	,	13	,	13	</value>
+		<value name="43" EPT="43">	13	,	13	,	13	,	13	</value>
+		<value name="44" EPT="44">	13	,	13	,	13	,	13	</value>
+		<value name="45" EPT="45">	13	,	13	,	13	,	13	</value>
+		<value name="46" EPT="46">	13	,	13	,	13	,	13	</value>
+		<value name="47" EPT="47">	13	,	13	,	13	,	13	</value>
+		<value name="48" EPT="48">	13	,	13	,	13	,	13	</value>
+		<value name="49" EPT="49">	13	,	13	,	13	,	13	</value>
+		<value name="50" EPT="50">	13	,	13	,	13	,	13	</value>
+	    </MaxDeltaEpt>
+		
+		<SaturationSensitivity name="SaturationSensitivity">-1</SaturationSensitivity>
+		<SaturationLevel name="SaturationLevel">1000</SaturationLevel>
+		<MinTargetRatio name="MinTargetRatio">0.125</MinTargetRatio>
+		<MaxTargetRatio name="MaxTargetRatio">8.0</MaxTargetRatio>
+		<ThermalCalSteps name="ThermalCalSteps">4</ThermalCalSteps>
+		<MaGain name="MaGain">0.8,0.8,0.8,0.8</MaGain>
+		<PwGain name="PwGain">1.25,1.25,1.0,1.0</PwGain>
+		<GainThreshold name="GainThreshold">1.1,1.1,1.1,-1.0</GainThreshold>
+		<MetalSfbThreshold name="MetalSfbThreshold">0.3</MetalSfbThreshold>
+		<!-- unit: cm -->
+		<MetalDeltaEptThreshold name="MetalDeltaEptThreshold">5</MetalDeltaEptThreshold>
+		
+	</ZeroTrial>
+	
+</root>
